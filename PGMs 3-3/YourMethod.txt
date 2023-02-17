@@ -1,0 +1,3 @@
+Describe your method used to recognize the unknown actions here.
+
+I just modified function RecognizeActions.m to separate cases where we have labels or not.
